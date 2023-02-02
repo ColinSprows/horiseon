@@ -1,3 +1,14 @@
+/* 
+NOTES
+----- 
+changed hero to mainimage + img for SEO purposes
+added mainimage img responsiveness
+added header and footer semantics and removed unnecessary divs
+added nav
+combined content classes
+combined category classes
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -24,7 +35,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header ul {
+header nav {
     list-style-type: none;
     padding-top: 15px;
     margin-right: 20px;
@@ -33,7 +44,7 @@ header ul {
     font-size: 20px;
 }
 
-header ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
