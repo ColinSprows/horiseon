@@ -6,16 +6,9 @@ This website was edited to improve SEO and clean the code. It contains notes at 
 
 ## Installation
 
-N/A
+
+![screenshot](/assets/images/horiseon-screenshot.png)
 
 ## Usage
 
 To use this website, navigate to the link. To see the changes, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows).
-
-## Credits
-
-N/A
-
-## License
-
-MIT
